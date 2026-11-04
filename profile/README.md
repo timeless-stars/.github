@@ -1,4 +1,4 @@
-![](./../banner.png)
+![](./../banner_faded.png)
 
 welcome to timeless labs. currently a solo team.
 we make fun stuff here!
